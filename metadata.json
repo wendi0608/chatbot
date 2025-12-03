@@ -1,0 +1,4 @@
+{
+  "name": "PyEnv GenAI Configurator",
+  "description": "A smart tool to generate Python virtual environment setup scripts. It uses Gemini to intelligently suggest dependencies based on your project description."
+}
